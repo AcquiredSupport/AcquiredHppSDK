@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AcquiredHppSDK_Example' do
+  pod 'AcquiredHppSDK', :path => '../'
+
+  target 'AcquiredHppSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

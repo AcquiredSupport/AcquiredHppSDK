@@ -1,0 +1,16 @@
+PODS:
+  - AcquiredHppSDK (0.1.1)
+
+DEPENDENCIES:
+  - AcquiredHppSDK (from `../`)
+
+EXTERNAL SOURCES:
+  AcquiredHppSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AcquiredHppSDK: b2190757f463e16ff08936e29b748bb806e2a258
+
+PODFILE CHECKSUM: f6a86e0a094a71ab4e6f3ef8be744416805bdb91
+
+COCOAPODS: 1.9.3

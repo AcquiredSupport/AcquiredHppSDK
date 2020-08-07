@@ -1,0 +1,6 @@
+framework module Pods_AcquiredHppSDK_Tests {
+  umbrella header "Pods-AcquiredHppSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
