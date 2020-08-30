@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2C9A042BD42F648FC82A5A7FB73C92D2 /* NJKWebViewProgress.m in Sources */ = {isa = PBXBuildFile; fileRef = 85D7ACFBF24A6D85C77EB5814BF4040A /* NJKWebViewProgress.m */; };
-		359F1326EC7592A694B0A271CD332C45 /* NJKWebViewProgressView.h in Headers */ = {isa = PBXBuildFile; fileRef = F823950211D3C21BA8E98C63678B5AE3 /* NJKWebViewProgressView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5E587BC9A41EDC75CB67635576A3F31A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		689D1764D08CB54B721053B5BD2C08BF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		94F59F707BFF1DB4E73513573B63CA27 /* AcquiredHppSDK-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9DF18A3869190A7B395DA3488B03BA5F /* AcquiredHppSDK-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -19,9 +17,7 @@
 		BCA185D32D375D42D87481C5E7682E90 /* HppManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71262714FFA640FA97EA978B09ADC477 /* HppManager.swift */; };
 		C45C87B58E64EB689150098C70EC5C20 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		C8E01BB4497043786CC5D3968A4736B4 /* HppViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F3F053B6E9B006F2B34E49EC35D6BF /* HppViewController.swift */; };
-		D8D8DBE6541826AEFABF3B29602E1DEA /* NJKWebViewProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A0D4E75FEE6E4F9E79D26CC8D12D9CD /* NJKWebViewProgressView.m */; };
 		DC437F4AEC1366D3EEED88F8550F0B9F /* AcquiredHppSDK-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DF5D37524D6F303D8C8E274F17557183 /* AcquiredHppSDK-dummy.m */; };
-		F096E8D1D0A1A41963EC7BDC3DC43877 /* NJKWebViewProgress.h in Headers */ = {isa = PBXBuildFile; fileRef = 59E1D570BD8A536B209099CBE81A9AD6 /* NJKWebViewProgress.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FA24651BC278562E5221E4FA5B302800 /* HppSetting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9635C58AC6BA94BABBD28020FA0CE43A /* HppSetting.swift */; };
 		FB15938C5601CA3785E6805B448F59D5 /* Pods-AcquiredHppSDK_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E51BC0BEAEE7A39FBBE85AF11E134874 /* Pods-AcquiredHppSDK_Tests-dummy.m */; };
 /* End PBXBuildFile section */
@@ -51,7 +47,6 @@
 		129C121E458F2BF7E0F20DAC7D816EEF /* AcquiredHppSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AcquiredHppSDK.debug.xcconfig; sourceTree = "<group>"; };
 		13F3F053B6E9B006F2B34E49EC35D6BF /* HppViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HppViewController.swift; path = AcquiredHppSDK/Classes/HppViewController.swift; sourceTree = "<group>"; };
 		17A90EB43461CC27389D3EF97E55DBEF /* Pods-AcquiredHppSDK_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AcquiredHppSDK_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		2A0D4E75FEE6E4F9E79D26CC8D12D9CD /* NJKWebViewProgressView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = NJKWebViewProgressView.m; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		38F7DB9BC54F616613992AD51618AE36 /* Pods-AcquiredHppSDK_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-AcquiredHppSDK_Example.modulemap"; sourceTree = "<group>"; };
 		3ADE8813DF7D305644903AF1CDC2E9F9 /* Pods-AcquiredHppSDK_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AcquiredHppSDK_Example-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -59,7 +54,6 @@
 		4E5C481A7A457A9DA6AFF4ABDAE907DB /* Pods-AcquiredHppSDK_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AcquiredHppSDK_Example-umbrella.h"; sourceTree = "<group>"; };
 		4E9E3E19381C6E8E56D56CA52DFD9198 /* AcquiredHppSDK.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AcquiredHppSDK.h; path = AcquiredHppSDK/Classes/AcquiredHppSDK.h; sourceTree = "<group>"; };
 		58AAD5B254CE55682A92C03A08F0F230 /* Pods-AcquiredHppSDK_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-AcquiredHppSDK_Tests.modulemap"; sourceTree = "<group>"; };
-		59E1D570BD8A536B209099CBE81A9AD6 /* NJKWebViewProgress.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = NJKWebViewProgress.h; sourceTree = "<group>"; };
 		6678CCA0DB12D60C32A9643BF8BCB152 /* Pods-AcquiredHppSDK_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AcquiredHppSDK_Tests-umbrella.h"; sourceTree = "<group>"; };
 		6A563E52328EA8C91246A4D0D1893B8A /* Pods-AcquiredHppSDK_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AcquiredHppSDK_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		6AF1077625A76A5D7D7F1A8FE6CCCC2C /* AcquiredHppSDK-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "AcquiredHppSDK-Info.plist"; sourceTree = "<group>"; };
@@ -67,7 +61,6 @@
 		71262714FFA640FA97EA978B09ADC477 /* HppManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HppManager.swift; path = AcquiredHppSDK/Classes/HppManager.swift; sourceTree = "<group>"; };
 		71BFF665078F1BF61C34896286A59548 /* Pods-AcquiredHppSDK_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AcquiredHppSDK_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		83AC3BC916E753BFB2B38849B4A13A94 /* Pods-AcquiredHppSDK_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AcquiredHppSDK_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		85D7ACFBF24A6D85C77EB5814BF4040A /* NJKWebViewProgress.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = NJKWebViewProgress.m; sourceTree = "<group>"; };
 		9635C58AC6BA94BABBD28020FA0CE43A /* HppSetting.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HppSetting.swift; path = AcquiredHppSDK/Classes/HppSetting.swift; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9DF18A3869190A7B395DA3488B03BA5F /* AcquiredHppSDK-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AcquiredHppSDK-umbrella.h"; sourceTree = "<group>"; };
@@ -83,7 +76,6 @@
 		F0FE81F7577B94813AC7334C9BB6250F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		F1C9C97ADF4059F2636A1BC1B6965DDC /* Pods-AcquiredHppSDK_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AcquiredHppSDK_Example-frameworks.sh"; sourceTree = "<group>"; };
 		F2A1BA13E6F976DBD1B453D720BCC360 /* Pods-AcquiredHppSDK_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AcquiredHppSDK_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		F823950211D3C21BA8E98C63678B5AE3 /* NJKWebViewProgressView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = NJKWebViewProgressView.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -172,18 +164,6 @@
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		B4F5A7FFB2C8BA3066E6120ECD2FAD1D /* NJKWebViewProgress */ = {
-			isa = PBXGroup;
-			children = (
-				59E1D570BD8A536B209099CBE81A9AD6 /* NJKWebViewProgress.h */,
-				85D7ACFBF24A6D85C77EB5814BF4040A /* NJKWebViewProgress.m */,
-				F823950211D3C21BA8E98C63678B5AE3 /* NJKWebViewProgressView.h */,
-				2A0D4E75FEE6E4F9E79D26CC8D12D9CD /* NJKWebViewProgressView.m */,
-			);
-			name = NJKWebViewProgress;
-			path = AcquiredHppSDK/Classes/NJKWebViewProgress;
-			sourceTree = "<group>";
-		};
 		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -245,7 +225,6 @@
 				71262714FFA640FA97EA978B09ADC477 /* HppManager.swift */,
 				9635C58AC6BA94BABBD28020FA0CE43A /* HppSetting.swift */,
 				13F3F053B6E9B006F2B34E49EC35D6BF /* HppViewController.swift */,
-				B4F5A7FFB2C8BA3066E6120ECD2FAD1D /* NJKWebViewProgress */,
 				35F0192B262C5DBC47E02B962C07D1AA /* Pod */,
 				04EA3002F1B52E70CA825505B36117EA /* Support Files */,
 			);
@@ -270,8 +249,6 @@
 			files = (
 				94F59F707BFF1DB4E73513573B63CA27 /* AcquiredHppSDK-umbrella.h in Headers */,
 				AE4BB9149FF43773089FEBBD05822AC6 /* AcquiredHppSDK.h in Headers */,
-				F096E8D1D0A1A41963EC7BDC3DC43877 /* NJKWebViewProgress.h in Headers */,
-				359F1326EC7592A694B0A271CD332C45 /* NJKWebViewProgressView.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,8 +389,6 @@
 				BCA185D32D375D42D87481C5E7682E90 /* HppManager.swift in Sources */,
 				FA24651BC278562E5221E4FA5B302800 /* HppSetting.swift in Sources */,
 				C8E01BB4497043786CC5D3968A4736B4 /* HppViewController.swift in Sources */,
-				2C9A042BD42F648FC82A5A7FB73C92D2 /* NJKWebViewProgress.m in Sources */,
-				D8D8DBE6541826AEFABF3B29602E1DEA /* NJKWebViewProgressView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

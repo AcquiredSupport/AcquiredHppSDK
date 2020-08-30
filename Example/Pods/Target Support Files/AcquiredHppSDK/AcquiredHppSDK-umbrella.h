@@ -11,8 +11,8 @@
 #endif
 
 #import "AcquiredHppSDK.h"
-#import "NJKWebViewProgress.h"
-#import "NJKWebViewProgressView.h"
+//#import "NJKWebViewProgress.h"
+//#import "NJKWebViewProgressView.h"
 
 FOUNDATION_EXPORT double AcquiredHppSDKVersionNumber;
 FOUNDATION_EXPORT const unsigned char AcquiredHppSDKVersionString[];
