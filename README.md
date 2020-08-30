@@ -22,12 +22,12 @@ it, simply add the following line to your Podfile:
 target 'AcquiredSample' do
 	pod 'AcquiredHppSDK', :git => 'https://github.com/AcquiredSupport/AcquiredHppSDK.git', :branch =>'master'
 end
-//AcquiredSample is your original xcode peoject name
+//AcquiredSample is your original xcode project name
 ```
 
 Or
 ```ruby
-pod 'AcquiredHppSDK','1.1.2'
+pod 'AcquiredHppSDK','1.2.1'
 ```
 
 Make sure add this in your Podfile if you are using Swift
