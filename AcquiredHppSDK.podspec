@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AcquiredHppSDK'
-  s.version          = '1.1.2'
+  s.version          = '1.2.1'
   s.summary          = 'Acquired Hpp SDK.'
 
 # This description is used to generate tags and improve search results.
