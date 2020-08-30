@@ -1,7 +1,7 @@
 # AcquiredHppSDK
 
 [![CI Status](https://img.shields.io/travis/AcquiredSupport/AcquiredHppSDK.svg?style=flat)](https://travis-ci.org/AcquiredSupport/AcquiredHppSDK)
-[![Version](https://img.shields.io/cocoapods/v/AcquiredHppSDK.svg?style=flat)](https://cocoapods.org/pods/AcquiredHppSDK)
+[![>Version](https://img.shields.io/cocoapods/v/AcquiredHppSDK.svg?style=flat)](https://cocoapods.org/pods/AcquiredHppSDK)
 [![License](https://img.shields.io/cocoapods/l/AcquiredHppSDK.svg?style=flat)](https://cocoapods.org/pods/AcquiredHppSDK)
 [![Platform](https://img.shields.io/cocoapods/p/AcquiredHppSDK.svg?style=flat)](https://cocoapods.org/pods/AcquiredHppSDK)
 
@@ -27,7 +27,7 @@ end
 
 Or
 ```ruby
-pod 'AcquiredHppSDK'
+pod 'AcquiredHppSDK','1.1.2'
 ```
 
 Make sure add this in your Podfile if you are using Swift
